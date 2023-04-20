@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3851809930696264129
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1780105693712023322, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0e3ab9ab1bce4ea4bbedb38c154cd0df, type: 3}
+    - target: {fileID: 4864148176981118958, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_Name
+      value: UseLifeButtonText
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 886.5389
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 228.9274
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -1.8303
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -200.71527
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7249573700087012626, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7862941148773143358, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_Name
+      value: UseLifeButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 7862941148773143358, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9089121292607528632, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_text
+      value: Use Life
+      objectReference: {fileID: 0}
+    - target: {fileID: 9089121292607528632, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
+      propertyPath: m_fontSize
+      value: 80.8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b2717f25cb845954eb330537496c5ff5, type: 3}
